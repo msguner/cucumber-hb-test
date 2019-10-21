@@ -5,7 +5,7 @@ Feature: Hepsiburada test cases
     Given Open hepsiburada.com website and wait for load scripts
     And Open login page from user process menu
     And User is at the login page of the application
-    And User logs in using email as "jefofon@promaild.com" and password as "test1234"
+    And User logs in using email as "safa.guner@getir.com" and password as "test1234"
     And Verifies that the user is on the home page
     And Verifies that the user has logged in
     And Open shopping cart
